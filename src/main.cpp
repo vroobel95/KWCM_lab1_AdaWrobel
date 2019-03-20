@@ -23,5 +23,4 @@ int main()
 	std::cout << cosinus << std::endl;
 	std::cout << tangens << std::endl;
 	std::cout << cotangens << std::endl;
-
 }
